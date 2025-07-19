@@ -2,6 +2,8 @@ package Conditional.one;
 
 public class isEven {
 	
+	//Even odd 
+	
 	public String findeven (int num) {
 		
 		if(num % 2 == 0) {
