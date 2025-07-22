@@ -1,7 +1,7 @@
 package Conditional.Two;
-// if person have both adhar and pan then he is eligible
+//// if person have both adhar and pan then he is eligible
 //for passport otherwise not 
-// if sequence of document change it should not change the output?
+//if sequence of document change it should not change the output?
 public class practice {
 
 	public String pass(String doc1 , String doc2) {
